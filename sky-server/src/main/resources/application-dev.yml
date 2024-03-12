@@ -1,8 +1,8 @@
 sky:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    host: localhost
+    host: jd.ahu-robotlab.top
     port: 3306
     database: sky_take_out
-    username: root
-    password: root
+    username: sky_take_out
+    password: sky_take_out_password
